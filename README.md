@@ -14,7 +14,7 @@
  ```
  python BybitCoinSweeper.py
 ```
-#### Donations through telegram @demoncratos
+#### Donations through telegram @AndroidUnlocking
 #### our telegram Channel @GN_SCRIPTS
 
 
